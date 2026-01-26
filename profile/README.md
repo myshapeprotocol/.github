@@ -29,3 +29,4 @@ Contact: [social@myshape.com](mailto:social@myshape.com)
 - 🐦 [Twitter/X](https://twitter.com/myshapeprotocol)  
 - 💼 [LinkedIn](https://linkedin.com/company/myshapeprotocol)  
 - 💬 Discord / Telegram coming soon
+📌 [Hiring Issue](https://github.com/myshapeprotocol/.github/issues/1)
